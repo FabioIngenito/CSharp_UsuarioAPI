@@ -2,10 +2,10 @@
 
 | :placard: Vitrine.Dev |  |
 | -------------  | --- |
-| :sparkles: Nome        | **ASP_UsuarioAPI**
+| :sparkles: Nome        | **CSharp_UsuarioAPI**
 | :label: Tecnologias | ASP.NET C# EntityFramework Identity
 
-![waEmailConfirmado](https://user-images.githubusercontent.com/24603753/149820394-19c5b84e-2c72-4ff4-9e67-fbf43790ef8e.png#vitrinedev)
+![UsuariosAPI](https://github.com/FabioIngenito/CSharp_UsuarioAPI/assets/24603753/2067283b-681e-442e-af4d-3b7f3ad4c3b9#vitrinedev)
 
 <h2 align="left">Detalhes do projeto</h2>
 
