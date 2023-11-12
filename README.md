@@ -32,6 +32,8 @@ https://cursos.alura.com.br/course/dot-net-6-identity-controle-usuario
 
   Guardei um arquivo "UsuariosAPI.sql" na pasta "SQL" para o MySQL.
 
+  No "Gerenciador de Soluções" clique com o botão direito do mouse em cima do nome do projeto: "UsuariosAPI", na lista aparecerá a opção: "Gerenciar Segredos do Usuário". O arquivo "secrets.json" será criado.
+
   Na pasta "JSON" tem o arquivo "secrets.json", mas ele NÃO fica nesta pasta, este arquivo fica em:
   C:\Users\SEU_USUARIO\AppData\Roaming\Microsoft\UserSecrets\CHAVE_UUID\secrets.json
 
