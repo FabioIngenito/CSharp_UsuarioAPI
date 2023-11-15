@@ -1,11 +1,11 @@
 <h1 align="left">.NET 7 e Identity: Implementando Controle de Usuário</h1>
 
-| :placard: Vitrine.Dev |  |
-| -------------  | --- |
-| :sparkles: Nome        | **CSharp_UsuarioAPI**
-| :label: Tecnologias | ASP.NET C# EntityFramework Identity
+| :placard: Vitrine.Dev |                                     |
+| --------------------- | ----------------------------------- |
+| :sparkles: Nome       | **CSharp_UsuarioAPI**               |      
+| :label: Tecnologias   | ASP.NET C# EntityFramework Identity |
 
-![UsuariosAPI](https://github.com/FabioIngenito/CSharp_UsuarioAPI/assets/24603753/2067283b-681e-442e-af4d-3b7f3ad4c3b9#vitrinedev)
+![image](https://github.com/FabioIngenito/CSharp_UsuarioAPI/assets/24603753/2067283b-681e-442e-af4d-3b7f3ad4c3b9#vitrinedev)
 
 <h2 align="left">Detalhes do projeto</h2>
 
